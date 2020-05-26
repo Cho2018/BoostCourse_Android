@@ -7,7 +7,7 @@ Project B. 좋아요와 한줄평 리스트
 - ScrollView 안에서의 ListView 스크롤 문제  
 
 Project C. 한줄평 화면으로 전환하기
-- 작성하기 버튼(두 뷰에 존재)을 통한 comment 리스트 추가 문제  
+- 한줄평 저장 문제 
 
 Project D. 영화목록과 바로가기 메뉴
 - Fragment에서 Fragment 호출 --- replace 이용
