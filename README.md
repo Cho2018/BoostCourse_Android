@@ -11,3 +11,5 @@ Project C. 한줄평 화면으로 전환하기
 Project D. 영화목록과 바로가기 메뉴
 
 Project E. 서버에서 영화정보 가져오기
+
+Project G. 사진보기와 동영상 재생
